@@ -1,4 +1,4 @@
-
+#Print('O Script python calcula a média do usuário que testar o código!')
 
 nome = input('Nome do aluno: ')
 print('Digite suas notas', nome)
@@ -10,5 +10,6 @@ media_ponderada = (nota1 * 2 + nota2 * 3 + nota3 * 5 ) / 10
 print(f'Notas: {nota1}, {nota2}, {nota3} ')
 print(f'Média aritmética: {media_aritmedica}')
 print(f'Média ponderada: {media_ponderada}')
+
 
 
